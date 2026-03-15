@@ -1,0 +1,297 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+wheelhouse/
+
+# Installer logs
+pip-log.txt
+
+# Virtual / environment directories
+.env
+.env.*
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+.Python
+
+# Test / coverage
+.pytest_cache/
+coverage/
+coverage.*
+htmlcov/
+.coverage
+.coverage.*
+
+# MyPy
+.mypy_cache/
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+mcp_logs/
+*.pid
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml
+Dockerfile*.save
+*.dockerfile
+
+# Project-specific output / large results
+results_mcp_run*/
+results*/
+Seeds.txt
+JOB_METADATA.txt
+
+# SigProfiler build artifacts
+SigProfilerExtractor/__pycache__/
+SigProfilerExtractor/results/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Editor swap / backup files
+*~
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Secrets / keys
+*.pem
+*.key
+*.crt
+env.example
+.env.local
+.env.*.local
+
+# Databases
+*.sqlite3
+
+# Misc
+.cache/
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+wheelhouse/
+
+# Installer logs
+pip-log.txt
+
+# Virtual / environment directories
+.env
+.env.*
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+.Python
+
+# Test / coverage
+.pytest_cache/
+coverage/
+coverage.*
+htmlcov/
+.coverage
+.coverage.*
+
+# MyPy
+.mypy_cache/
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+mcp_logs/
+*.pid
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml
+Dockerfile*.save
+*.dockerfile
+
+# Project-specific output / large results
+results_mcp_run*/
+results*/
+Seeds.txt
+JOB_METADATA.txt
+
+# SigProfiler build artifacts
+SigProfilerExtractor/__pycache__/
+SigProfilerExtractor/results/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Editor swap / backup files
+*~
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Secrets / keys
+*.pem
+*.key
+*.crt
+env.example
+.env.local
+.env.*.local
+
+# Databases
+*.sqlite3
+
+# Misc
+.cache/
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+wheelhouse/
+
+# Installer logs
+pip-log.txt
+
+# Virtual / environment directories
+.env
+.env.*
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+.Python
+
+# Test / coverage
+.pytest_cache/
+coverage/
+coverage.*
+htmlcov/
+.coverage
+.coverage.*
+
+# MyPy
+.mypy_cache/
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+mcp_logs/
+*.pid
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml
+Dockerfile*.save
+*.dockerfile
+
+# Project-specific output / large results
+results_mcp_run*/
+results*/
+Seeds.txt
+JOB_METADATA.txt
+
+# SigProfiler build artifacts
+SigProfilerExtractor/__pycache__/
+SigProfilerExtractor/results/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Editor swap / backup files
+*~
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Secrets / keys
+*.pem
+*.key
+*.crt
+env.example
+.env.local
+.env.*.local
+
+# Databases
+*.sqlite3
+
+# Misc
+.cache/
