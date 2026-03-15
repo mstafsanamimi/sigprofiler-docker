@@ -1,0 +1,27 @@
+registry:
+  sigprofiler:
+    description: "Run SigProfilerExtractor with configurable arguments"
+    title: "SigProfiler MCP"
+    type: server
+    dateAdded: "2026-03-09T00:00:00Z"
+    image: sigprofiler-mcp:latest
+    ref: ""
+    readme: ""
+    toolsUrl: ""
+    source: ""
+    upstream: ""
+    icon: ""
+    tools:
+      - name: run_sigprofiler
+    volumes:
+      - '{{sigprofiler.project_dir|volume|into}}'
+    config:
+      - name: sigprofiler
+        description: Configure paths for the SigProfiler MCP server
+        type: object
+        properties:
+          project_dir:
+            type: string
+            description: Absolute host path to mount into the SigProfiler MCP container
+        required:
+          - project_dir
